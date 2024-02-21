@@ -2,10 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F8F8FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Kaique+Vital;I'm+24+years+old;I'm+from+Brazil;I+Graduated+analysis+and+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquecv&layout=compact&hide_border=true&title_color=000000&text_color=000000&bg_color=F8F8FF" />
-</div>
-
 ##
 
 <div style="display: inline_block">
